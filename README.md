@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## MongoDB
+## MongoDBCloud
 Change the connect method in Backend > app.js at #YOUR_DB#
 
 ## Further help
